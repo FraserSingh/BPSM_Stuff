@@ -1,0 +1,78 @@
+commit e40435cd029e529dc18106ed619eceeb174e1300
+Merge: c669a6a 9c59dc2
+Author: fraser.singh@hotmail.com <s2268606@bioinfmsc8.bio.ed.ac.uk>
+Date:   Sun Oct 2 23:31:15 2022 +0100
+
+    trying to commit again
+
+commit 9c59dc2c9705569d299213b20529c1d40acb731d
+Author: fraser.singh@hotmail.com <s2268606@bioinfmsc8.bio.ed.ac.uk>
+Date:   Sun Oct 2 23:25:28 2022 +0100
+
+    Final version of the someotherfile.sh shell script prior to merge
+
+commit c669a6a91f6ff5761e97e2ba3c40a86f91507135
+Author: fraser.singh@hotmail.com <s2268606@bioinfmsc8.bio.ed.ac.uk>
+Date:   Sun Oct 2 23:13:08 2022 +0100
+
+    Updated contents of tar, coolscript
+
+commit 20857671f24e8d40dab48180ed6149cbbe2cac2d
+Author: fraser.singh@hotmail.com <s2268606@bioinfmsc8.bio.ed.ac.uk>
+Date:   Sun Oct 2 23:12:04 2022 +0100
+
+    I am not sure cool script is actually any good
+
+commit 619d9ddc9f96045fa541c51f09aac5bf47f03fb6
+Author: fraser.singh@hotmail.com <s2268606@bioinfmsc8.bio.ed.ac.uk>
+Date:   Sun Oct 2 23:09:01 2022 +0100
+
+    Added my_cool_script
+
+commit 90d929367396f1fd8fb43de53742a9db87b7ec85
+Author: fraser.singh@hotmail.com <s2268606@bioinfmsc8.bio.ed.ac.uk>
+Date:   Sun Oct 2 23:07:21 2022 +0100
+
+    Third version of the someotherfile.sh shell script
+
+commit 34546b06c2418df89afff3e00475cd7ed053d4d0
+Author: fraser.singh@hotmail.com <s2268606@bioinfmsc8.bio.ed.ac.uk>
+Date:   Sun Oct 2 23:06:21 2022 +0100
+
+    Updated version of tar
+
+commit c3cdec124764d32834a981d564b7380c20919c28
+Author: fraser.singh@hotmail.com <s2268606@bioinfmsc8.bio.ed.ac.uk>
+Date:   Sun Oct 2 23:05:36 2022 +0100
+
+    Second version of the someotherfile.sh shell script
+
+commit 0b4399ee6c59d21f7707c91859a8edd4af461d39
+Author: fraser.singh@hotmail.com <s2268606@bioinfmsc8.bio.ed.ac.uk>
+Date:   Sun Oct 2 23:03:39 2022 +0100
+
+    Added the someotherfile.sh shell script
+
+commit 22a7653d9506baedfffdcd2259ae638fbe264341
+Author: fraser.singh@hotmail.com <s2268606@bioinfmsc8.bio.ed.ac.uk>
+Date:   Sun Oct 2 23:00:27 2022 +0100
+
+    Additinoal motif files, and updated tar file
+
+commit 3b7ded4c4c13f7b5d0e048c941b00ef0bf5948f7
+Author: fraser.singh@hotmail.com <s2268606@bioinfmsc8.bio.ed.ac.uk>
+Date:   Sun Oct 2 22:52:11 2022 +0100
+
+    Adding initial tar file
+
+commit a0302d976c8567da3dbc1d13521f54b2d7e37b55
+Author: fraser.singh@hotmail.com <s2268606@bioinfmsc8.bio.ed.ac.uk>
+Date:   Sun Oct 2 22:42:45 2022 +0100
+
+    CodeFiles all done and tar zipped
+
+commit 4c215bf12c6c0d4a833dbc9f5b8d1cefae70825c
+Author: fraser.singh@hotmail.com <s2268606@bioinfmsc8.bio.ed.ac.uk>
+Date:   Sun Oct 2 22:39:38 2022 +0100
+
+    First file added
