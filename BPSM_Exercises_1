@@ -1,0 +1,3 @@
+cp /localdisk/data/BPSM/Lecture03/example_people_data.tsv .
+more example_people_data.tsv
+
